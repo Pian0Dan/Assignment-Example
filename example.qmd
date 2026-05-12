@@ -10,3 +10,12 @@ This is a test document.
 ```{r}
 plot(cars)
 ```
+
+## Additional Content
+
+This section was added in the test branch.
+
+```{r}
+#| eval = FALSE
+hist(cars$speed)
+```
